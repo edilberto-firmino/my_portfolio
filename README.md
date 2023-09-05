@@ -1,42 +1,70 @@
-<h3>Bem-vindo(a) ao meu portfólio!</h3>
+# Getting Started with Create React App
 
-Como desenvolvedroa front-end, decidi criar um portfólio para mostrar alguns dos meus projetos, tecnologias que domino e também falo um pouco sobre mim e minhas experiências. Todo o projeto foi feito utilizando as seguintes tecnologias:
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-- ReactJS
-- Javascript
-- CSS/SASS
+## Available Scripts
 
-Inicialmente criei a página home, com algumas informações básicas sobre mim e links de acesso para redes sociais:
+In the project directory, you can run:
 
-<div>
-  <img src="./src/gitHub/gif-portfolio-1.gif">
-</div>
-</br>
+### `npm start`
 
-Na página "sobre" você encontrará algumas informações sobre mim, qual área atuo, quais tecnologias tenho contato/experiência e um pouco sobre minha histŕia
+Runs the app in the development mode.\
+Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-<div>
-  <img src="./src/gitHub/gif-portfolio-2.gif">
-</div>
-</br>
+The page will reload when you make changes.\
+You may also see any lint errors in the console.
 
-Já na página de projetos, que particularmente é minha parte favorita, você irá encontrar alguns dos projetos que já criei, optei por deixar meus projetos de mais orgulho e também os projetos iniciais, acredito que demonstrem de forma interessante a evolução que tive com o passar do tempo no curso da Trybe.
+### `npm test`
 
-Cada projeto é apresentado em um card onde o usuário tem acesso as seguintes informações:
-- Uma modal contém um vídeo exemplificando como a aplicação pode ser usada e dados importantes como o objetivo do projeto e tecnologias usadas;
-- Ao repositório do projeto no GitHub;
-- Acesso a aplicação em funcionamento, possibilitando que o usuário tenha uma experiência interativa com o projeto
+Launches the test runner in the interactive watch mode.\
+See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-<div>
-  <img src="./src/gitHub/gif-portfolio-3.gif">
-</div>
-</br>
+### `npm run build`
 
-Além disso, o portfólio é responsivo, visando entregar uma boa experiência para usuários em diversos dispositivos.
+Builds the app for production to the `build` folder.\
+It correctly bundles React in production mode and optimizes the build for the best performance.
 
-<div>
-  <img src="./src/gitHub/gif-portfolio-4.gif">
-</div>
-</br>
+The build is minified and the filenames include the hashes.\
+Your app is ready to be deployed!
 
-<h4>Espero que tenha gostado, e se tiver alguma sugestão, vou adorar ouvir sua opinião!!</h4> 
+See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+
+### `npm run eject`
+
+**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+
+If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+
+Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+
+You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+
+## Learn More
+
+You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+
+To learn React, check out the [React documentation](https://reactjs.org/).
+
+### Code Splitting
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+
+### Analyzing the Bundle Size
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+
+### Making a Progressive Web App
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+
+### Advanced Configuration
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+
+### Deployment
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+
+### `npm run build` fails to minify
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
